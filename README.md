@@ -38,6 +38,8 @@ destatis-gehaltsrechner-python/
 ├── salary_calculator/
 │   ├── coefficients.json     ← All regression coefficients (extracted from app.js)
 │   └── __init__.py           ← Main calculation script
+├── examples/
+│   └── salary_comparison.ipynb ← Usage examples and visualizations
 ├── README.md                 ← This documentation (English)
 └── README_TC.md              ← Traditional Chinese documentation
 ```

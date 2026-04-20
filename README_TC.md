@@ -38,6 +38,8 @@ destatis-gehaltsrechner-python/
 ├── salary_calculator/
 │   ├── coefficients.json     ← 全部迴歸係數（從 app.js 提取）
 │   └── __init__.py           ← 主計算程式
+├── examples/
+│   └── salary_comparison_TC.ipynb ← 使用範例與視覺化展示
 ├── README.md                 ← 英文說明文件
 └── README_TC.md              ← 本說明文件
 ```
