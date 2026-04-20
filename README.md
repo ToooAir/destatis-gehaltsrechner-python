@@ -34,11 +34,12 @@ Based on the [Gehaltsvergleich](https://service.destatis.de/DE/gehaltsvergleich/
 
 ```
 File Structure:
-salary_calculator/
-├── coefficients.json     ← All regression coefficients (extracted from app.js)
-├── salary_calculator.py  ← Main calculation script
-├── README.md             ← This documentation (English)
-└── README_TC.md          ← Traditional Chinese documentation
+destatis-gehaltsrechner-python/
+├── salary_calculator/
+│   ├── coefficients.json     ← All regression coefficients (extracted from app.js)
+│   └── __init__.py           ← Main calculation script
+├── README.md                 ← This documentation (English)
+└── README_TC.md              ← Traditional Chinese documentation
 ```
 
 ***

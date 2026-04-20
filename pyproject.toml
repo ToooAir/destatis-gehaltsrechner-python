@@ -19,7 +19,7 @@ classifiers = [
 ]
 
 [tool.setuptools]
-py-modules = ["salary_calculator"]
+packages = ["salary_calculator"]
 
 [tool.setuptools.package-data]
-"*" = ["coefficients.json"]
+"salary_calculator" = ["coefficients.json"]
